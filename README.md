@@ -32,14 +32,13 @@ The system follows a client-server architecture where the frontend application i
 
 # Key Features:
 
-User Authentication: Secure login system for administrators.
-Dashboard: Overview of key metrics and quick access to functionalities.
-Student CRUD Operations: Intuitive interface for managing student records.
-Performance Tracking: Monitor and report on student academic performance.
-Attendance Management: Easy recording and viewing of attendance data.
-Search Functionality: Efficient search based on various parameters.
-Report Generation: Generate detailed reports in various formats (PDF, Excel).
+# 1.User Authentication: Secure login system for administrators.
+# 2.Dashboard: Overview of key metrics and quick access to functionalities.
+# 3.Student CRUD Operations: Intuitive interface for managing student records.
+# 4.Performance Tracking: Monitor and report on student academic performance.
+# 5.Attendance Management: Easy recording and viewing of attendance data.
+# 6.Search Functionality: Efficient search based on various parameters.
+# 7.Report Generation: Generate detailed reports in various formats (PDF, Excel).
 
 # Conclusion:
 The Student Management System project aims to provide a reliable, efficient, and user-friendly solution for managing student data in educational institutions. By leveraging Python and SQL, the system ensures robust data handling, scalability, and ease of maintenance, ultimately enhancing the administrative processes and supporting better educational outcomes.
-
