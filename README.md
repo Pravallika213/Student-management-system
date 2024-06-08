@@ -24,7 +24,10 @@ The database will consist of the following primary tables:
 Students: Contains student ID, name, date of birth, contact information, and other personal details.
 Grades: Stores academic performance data, linked to the student ID.
 Attendance: Records attendance information, linked to the student ID.
-System Architecture:
+Gender
+Date of birth: It contains the date o birth linked to student ID.
+
+# System Architecture:
 The system follows a client-server architecture where the frontend application interacts with the backend server to perform CRUD (Create, Read, Update, Delete) operations on the database.
 
 # Key Features:
