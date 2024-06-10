@@ -1,6 +1,6 @@
 # Student-management-system
 # Objective:
-The objective of this project is to develop a comprehensive Student Management System (SMS) using Python and an SQL database. The system aims to facilitate efficient management of student data, providing functionalities for adding, updating, deleting, and retrieving student records.By leveraging Python and SQL, this system provides a robust solution for managing student records, grades, attendance, and other essential data. This project aims to enhance the efficiency and accuracy of data management processes in schools, colleges, and universiti
+The objective of this project is to develop a comprehensive Student Management System (SMS) using Python and an SQL database. The system aims to facilitate efficient management of student data, providing functionalities for adding, updating, deleting, and retrieving student records.By leveraging Python and SQL, this system provides a robust solution for managing student records, grades, attendance, and other essential data. This project aims to enhance the efficiency and accuracy of data management processes in schools, colleges, and universities.
 
 # Introduction:
 Educational institutions often handle large amounts of student data, which include personal details, academic performance, attendance, and other relevant information. Manual management of this data is prone to errors, time-consuming, and inefficient. A digital Student Management System can significantly streamline these processes, ensuring accuracy, security, and easy access to information.
